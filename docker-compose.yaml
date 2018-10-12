@@ -5,5 +5,5 @@ services:
     image: shivatheeast/soft58364616
     ports:
       - "8035:3000"
-    command: "npm start"
+    command: "node index.js"
 
