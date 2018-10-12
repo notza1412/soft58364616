@@ -1,7 +1,7 @@
 
 version: '3.5'
 services:
-  myresume:
+  myapp:
     image: shivatheeast/soft58364616
     ports:
       - "8035:3000"
